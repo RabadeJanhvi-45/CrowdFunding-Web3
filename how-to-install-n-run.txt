@@ -1,0 +1,21 @@
+npm install tailwindcss@3.2.7 postcss@8.4.6 autoprefixer@10.4.2 
+
+npx tailwindcss@3.2.7 init -p 
+
+npm i hardhat@2.13.0  
+  
+npx hardhat init                               
+
+npm install --save-dev "hardhat@^2.13.0" "@nomicfoundation/hardhat-toolbox@^2.0.0" 
+
+npm i ethers@5.7.2  
+
+npm i web3modal@1.9.12
+
+
+npx hardhat node
+npx hardhat run --network localhost scripts/deploy.js
+
+0x5FbDB2315678afecb367f032d93F642f64180aa3
+
+npm run dev 
